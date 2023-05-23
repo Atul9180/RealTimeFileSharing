@@ -11,12 +11,12 @@ This project is a real-time file sharing web application built using MongoDB (a 
 - Advanced search and filtering options for quick file retrieval
 
 ## Technologies Used
-~ MongoDB: A NoSQL database used for efficient and scalable file storage
-~ Mongoose: An Object Data Modeling (ODM) library for MongoDB, providing a simplified way to interact with the database
-~ Node.js: A JavaScript runtime environment used for server-side development
-~ Express.js: A fast and minimalist web application framework for Node.js
-~ Socket.io: A JavaScript library for real-time communication between the server and clients
-~ HTML, CSS, and JavaScript: The core technologies used for building the frontend interface
+- MongoDB: A NoSQL database used for efficient and scalable file storage
+- Mongoose: An Object Data Modeling (ODM) library for MongoDB, providing a simplified way to interact with the database
+- Node.js: A JavaScript runtime environment used for server-side development
+- Express.js: A fast and minimalist web application framework for Node.js
+- Socket.io: A JavaScript library for real-time communication between the server and clients
+- HTML, CSS, and JavaScript: The core technologies used for building the frontend interface
 
 ## Installation
 1. Clone the repository:
@@ -33,9 +33,8 @@ This project is a real-time file sharing web application built using MongoDB (a 
     npm run dev
 
 ## Future Improvements
-~Implement enhanced file encryption for improved security
-~Integrate advanced search and filtering options for efficient file management
-~Incorporate user feedback and implement requested features
-~Optimize the application's performance and scalability
-~Explore integration with cloud storage providers for seamless file synchronization
-~Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback and contributions are highly appreciated.
+- Implement enhanced file encryption for improved security
+- Integrate advanced search and filtering options for efficient file management
+- Incorporate user feedback and implement requested features- Optimize the application's performance and scalability
+- Explore integration with cloud storage providers for seamless file synchronization
+- Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback and contributions are highly appreciated.
