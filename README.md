@@ -20,17 +20,17 @@ This project is a real-time file sharing web application built using MongoDB (a 
 
 ## Installation
 1. Clone the repository:
-``shell
-git clone https://github.com/your-username/real-time-file-sharing.git
+   ```shell
+   git clone https://github.com/your-username/real-time-file-sharing.git
 2. Navigate to the project directory:
-``shell
-cd real-time-file-sharing
+    ```shell
+    cd real-time-file-sharing
 3. Install the dependencies:
-``shell
-npm install
-4. Start the development server:
-``shell
-npm run dev
+    ```shell
+    npm install
+4. Start the development serve:
+    ```shell
+    npm run dev
 
 ## Future Improvements
 ~Implement enhanced file encryption for improved security
